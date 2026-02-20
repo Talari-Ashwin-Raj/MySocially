@@ -1,0 +1,457 @@
+{
+    "channels": [
+        {
+            "channel": "Email",
+            "spend": 1764078.73,
+            "impressions": 59040717,
+            "clicks": 3247677,
+            "conversions": 229747,
+            "revenue": 12833973.13,
+            "ctr": 5.500741124129641,
+            "cpc": 0.5431817049540333,
+            "roas": 7.27517026975321,
+            "cpa": 7.678353710821034,
+            "cvr": 7.074194878369985
+        },
+        {
+            "channel": "SEO",
+            "spend": 3124835.92,
+            "impressions": 83443911,
+            "clicks": 2622293,
+            "conversions": 131559,
+            "revenue": 17742058.22,
+            "ctr": 3.1425816079018634,
+            "cpc": 1.1916425510040258,
+            "roas": 5.67775674442452,
+            "cpa": 23.752353848843484,
+            "cvr": 5.016945093473536
+        },
+        {
+            "channel": "LinkedIn",
+            "spend": 3623251.88,
+            "impressions": 27616133,
+            "clicks": 418173,
+            "conversions": 17526,
+            "revenue": 15189638.42,
+            "ctr": 1.5142344512897588,
+            "cpc": 8.664480681440455,
+            "roas": 4.192266760101702,
+            "cpa": 206.73581421887482,
+            "cvr": 4.1910883772983905
+        },
+        {
+            "channel": "Google Ads",
+            "spend": 9811735.43,
+            "impressions": 107306499,
+            "clicks": 2145399,
+            "conversions": 75053,
+            "revenue": 34244551.22,
+            "ctr": 1.999318792424679,
+            "cpc": 4.573384918143431,
+            "roas": 3.4901625165406647,
+            "cpa": 130.73075599909396,
+            "cvr": 3.498323621853091
+        },
+        {
+            "channel": "Influencer",
+            "spend": 13215700.98,
+            "impressions": 215384530,
+            "clicks": 4271541,
+            "conversions": 100653,
+            "revenue": 41942710.7,
+            "ctr": 1.9832162504892992,
+            "cpc": 3.0938953834225167,
+            "roas": 3.1737030645195485,
+            "cpa": 131.29962326011147,
+            "cvr": 2.356362727175041
+        },
+        {
+            "channel": "Meta Ads",
+            "spend": 7954887.81,
+            "impressions": 122374470,
+            "clicks": 2885548,
+            "conversions": 91260,
+            "revenue": 25242478.82,
+            "ctr": 2.3579656769912876,
+            "cpc": 2.7568031479635757,
+            "roas": 3.1732036230942144,
+            "cpa": 87.16730013149244,
+            "cvr": 3.162657491748534
+        },
+        {
+            "channel": "Instagram",
+            "spend": 6808952.15,
+            "impressions": 149168159,
+            "clicks": 4139662,
+            "conversions": 114692,
+            "revenue": 19784012.15,
+            "ctr": 2.7751646381852844,
+            "cpc": 1.6448087186828297,
+            "roas": 2.905588365751696,
+            "cpa": 59.36728062986085,
+            "cvr": 2.770564360085437
+        }
+    ],
+    "monthly_performance": [
+        {
+            "month": "2025-08",
+            "spend": 7660633.29,
+            "revenue": 27799426.75,
+            "conversions": 127455
+        },
+        {
+            "month": "2025-09",
+            "spend": 7471322.1,
+            "revenue": 26813163.82,
+            "conversions": 120370
+        },
+        {
+            "month": "2025-10",
+            "spend": 7767000.0,
+            "revenue": 27776940.31,
+            "conversions": 130271
+        },
+        {
+            "month": "2025-11",
+            "spend": 7487856.1,
+            "revenue": 26748118.31,
+            "conversions": 123690
+        },
+        {
+            "month": "2025-12",
+            "spend": 8052553.74,
+            "revenue": 29260324.58,
+            "conversions": 130059
+        },
+        {
+            "month": "2026-01",
+            "spend": 7864077.67,
+            "revenue": 28581448.89,
+            "conversions": 128645
+        }
+    ],
+    "campaigns": [
+        {
+            "channel": "Email",
+            "campaign_name": "Cart_Abandonment",
+            "spend": 449958.91,
+            "impressions": 14272979,
+            "clicks": 801488,
+            "conversions": 56319,
+            "revenue": 3267618.53,
+            "roas": 7.2620376158347435,
+            "cpa": 7.989469095687068
+        },
+        {
+            "channel": "Email",
+            "campaign_name": "Newsletter_Promo",
+            "spend": 449885.53,
+            "impressions": 14717164,
+            "clicks": 811463,
+            "conversions": 56371,
+            "revenue": 3249843.38,
+            "roas": 7.2237117295148385,
+            "cpa": 7.980797395824094
+        },
+        {
+            "channel": "Email",
+            "campaign_name": "Re_engagement",
+            "spend": 429509.0,
+            "impressions": 14606286,
+            "clicks": 800668,
+            "conversions": 56125,
+            "revenue": 3158281.57,
+            "roas": 7.3532372313502155,
+            "cpa": 7.652721603563474
+        },
+        {
+            "channel": "Email",
+            "campaign_name": "Welcome_Series",
+            "spend": 434725.29,
+            "impressions": 15444288,
+            "clicks": 834058,
+            "conversions": 60932,
+            "revenue": 3158229.65,
+            "roas": 7.264885946709013,
+            "cpa": 7.134597420074837
+        },
+        {
+            "channel": "Google Ads",
+            "campaign_name": "Display_Retargeting",
+            "spend": 2414881.09,
+            "impressions": 26766233,
+            "clicks": 532280,
+            "conversions": 18575,
+            "revenue": 8491709.96,
+            "roas": 3.5164091495701766,
+            "cpa": 130.00705733512785
+        },
+        {
+            "channel": "Google Ads",
+            "campaign_name": "Search_Q3",
+            "spend": 2450511.91,
+            "impressions": 26670928,
+            "clicks": 555139,
+            "conversions": 19537,
+            "revenue": 8553441.32,
+            "roas": 3.4904712297439926,
+            "cpa": 125.42928341096382
+        },
+        {
+            "channel": "Google Ads",
+            "campaign_name": "Search_Q4",
+            "spend": 2438448.77,
+            "impressions": 27441678,
+            "clicks": 548625,
+            "conversions": 19332,
+            "revenue": 8476227.56,
+            "roas": 3.476073667932749,
+            "cpa": 126.13535950755225
+        },
+        {
+            "channel": "Google Ads",
+            "campaign_name": "Shopping_Campaign",
+            "spend": 2507893.66,
+            "impressions": 26427660,
+            "clicks": 509355,
+            "conversions": 17609,
+            "revenue": 8723172.38,
+            "roas": 3.478286387948363,
+            "cpa": 142.4211289681413
+        },
+        {
+            "channel": "Influencer",
+            "campaign_name": "Brand_Ambassadors",
+            "spend": 3300144.96,
+            "impressions": 52909912,
+            "clicks": 1025642,
+            "conversions": 23273,
+            "revenue": 10244571.13,
+            "roas": 3.1042791314233664,
+            "cpa": 141.80144201435138
+        },
+        {
+            "channel": "Influencer",
+            "campaign_name": "Macro_Influencers",
+            "spend": 3410354.77,
+            "impressions": 54032126,
+            "clicks": 1058056,
+            "conversions": 25353,
+            "revenue": 10846683.68,
+            "roas": 3.1805147591726945,
+            "cpa": 134.51484124166765
+        },
+        {
+            "channel": "Influencer",
+            "campaign_name": "Micro_Influencers",
+            "spend": 3258842.7,
+            "impressions": 54614262,
+            "clicks": 1111021,
+            "conversions": 26309,
+            "revenue": 10298320.54,
+            "roas": 3.1601158718093383,
+            "cpa": 123.86798053897907
+        },
+        {
+            "channel": "Influencer",
+            "campaign_name": "UGC_Campaign",
+            "spend": 3246358.55,
+            "impressions": 53828230,
+            "clicks": 1076822,
+            "conversions": 25718,
+            "revenue": 10553135.35,
+            "roas": 3.2507608717465915,
+            "cpa": 126.22904386033127
+        },
+        {
+            "channel": "Instagram",
+            "campaign_name": "Feed_Campaign",
+            "spend": 1807186.58,
+            "impressions": 38287082,
+            "clicks": 1070917,
+            "conversions": 29908,
+            "revenue": 5200385.04,
+            "roas": 2.877613799013492,
+            "cpa": 60.424855557041596
+        },
+        {
+            "channel": "Instagram",
+            "campaign_name": "Influencer_Collab",
+            "spend": 1620692.79,
+            "impressions": 36743896,
+            "clicks": 1014214,
+            "conversions": 28382,
+            "revenue": 4779910.11,
+            "roas": 2.949300533384862,
+            "cpa": 57.10283947572405
+        },
+        {
+            "channel": "Instagram",
+            "campaign_name": "Reels_Promotion",
+            "spend": 1631892.01,
+            "impressions": 37174583,
+            "clicks": 999844,
+            "conversions": 27001,
+            "revenue": 4737236.19,
+            "roas": 2.902910340249782,
+            "cpa": 60.43820636272731
+        },
+        {
+            "channel": "Instagram",
+            "campaign_name": "Story_Ads",
+            "spend": 1749180.77,
+            "impressions": 36962598,
+            "clicks": 1054687,
+            "conversions": 29401,
+            "revenue": 5066480.81,
+            "roas": 2.8964878284135263,
+            "cpa": 59.493920955069555
+        },
+        {
+            "channel": "LinkedIn",
+            "campaign_name": "B2B_Campaign",
+            "spend": 921416.28,
+            "impressions": 6744114,
+            "clicks": 99801,
+            "conversions": 4274,
+            "revenue": 3893810.26,
+            "roas": 4.225896963748024,
+            "cpa": 215.5864014974263
+        },
+        {
+            "channel": "LinkedIn",
+            "campaign_name": "Lead_Gen_Q3",
+            "spend": 887824.66,
+            "impressions": 7157632,
+            "clicks": 109887,
+            "conversions": 4589,
+            "revenue": 3715238.29,
+            "roas": 4.184653183659035,
+            "cpa": 193.4680017432992
+        },
+        {
+            "channel": "LinkedIn",
+            "campaign_name": "Lead_Gen_Q4",
+            "spend": 884573.98,
+            "impressions": 6839908,
+            "clicks": 106413,
+            "conversions": 4357,
+            "revenue": 3749522.9,
+            "roas": 4.238789501811934,
+            "cpa": 203.02363552903373
+        },
+        {
+            "channel": "LinkedIn",
+            "campaign_name": "Thought_Leadership",
+            "spend": 929436.96,
+            "impressions": 6874479,
+            "clicks": 102072,
+            "conversions": 4306,
+            "revenue": 3831066.97,
+            "roas": 4.121922341026766,
+            "cpa": 215.84694844403157
+        },
+        {
+            "channel": "Meta Ads",
+            "campaign_name": "Conversion_Ads",
+            "spend": 1996449.12,
+            "impressions": 30247288,
+            "clicks": 727869,
+            "conversions": 22411,
+            "revenue": 6275970.05,
+            "roas": 3.143566238242024,
+            "cpa": 89.08344652179734
+        },
+        {
+            "channel": "Meta Ads",
+            "campaign_name": "Engagement_Campaign",
+            "spend": 1957573.73,
+            "impressions": 31432846,
+            "clicks": 734069,
+            "conversions": 22991,
+            "revenue": 6218780.07,
+            "roas": 3.1767794871256267,
+            "cpa": 85.14521899873864
+        },
+        {
+            "channel": "Meta Ads",
+            "campaign_name": "Prospecting_Q3",
+            "spend": 1989679.6300000001,
+            "impressions": 29581083,
+            "clicks": 677814,
+            "conversions": 21871,
+            "revenue": 6337619.54,
+            "roas": 3.185246229816405,
+            "cpa": 90.97341822504687
+        },
+        {
+            "channel": "Meta Ads",
+            "campaign_name": "Retargeting_Aug",
+            "spend": 2011185.33,
+            "impressions": 31113253,
+            "clicks": 745796,
+            "conversions": 23987,
+            "revenue": 6410109.16,
+            "roas": 3.1872294732778306,
+            "cpa": 83.84480468587152
+        },
+        {
+            "channel": "SEO",
+            "campaign_name": "Content_Marketing",
+            "spend": 792471.55,
+            "impressions": 20666352,
+            "clicks": 653381,
+            "conversions": 32862,
+            "revenue": 4501265.22,
+            "roas": 5.680033838438742,
+            "cpa": 24.11513450185625
+        },
+        {
+            "channel": "SEO",
+            "campaign_name": "Link_Building",
+            "spend": 766151.96,
+            "impressions": 21408559,
+            "clicks": 666975,
+            "conversions": 32726,
+            "revenue": 4333431.87,
+            "roas": 5.656099698550664,
+            "cpa": 23.411109209802603
+        },
+        {
+            "channel": "SEO",
+            "campaign_name": "Local_SEO",
+            "spend": 795164.29,
+            "impressions": 20248888,
+            "clicks": 646810,
+            "conversions": 32422,
+            "revenue": 4446569.45,
+            "roas": 5.592013507045192,
+            "cpa": 24.525454629572515
+        },
+        {
+            "channel": "SEO",
+            "campaign_name": "Technical_SEO",
+            "spend": 771048.12,
+            "impressions": 21120112,
+            "clicks": 655127,
+            "conversions": 33549,
+            "revenue": 4460791.68,
+            "roas": 5.785360944787726,
+            "cpa": 22.982745238308148
+        }
+    ],
+    "insights": [
+        "Scale Email: Currently the highest-performing channel with a ROAS of 7.28.",
+        "Re-evaluate Instagram: Lowest efficiency with a ROAS of 2.91. Consider reallocating budget.",
+        "Star Campaign: 'Re_engagement' in Email is over-performing. Increase budget for this specific campaign.",
+        "Performance Alert: 'Brand_Ambassadors' has high traffic but low conversion rate (2.27%). Audit the landing page.",
+        "Overall Trend: Revenue is on a downward trend (-2.3% vs previous month).",
+        "Cost Audit: 'Thought_Leadership' has an unusually high CPA of $215.85. Optimize targeting to lower acquisition costs."
+    ],
+    "total_metrics": {
+        "total_spend": 46303442.900000006,
+        "total_revenue": 166979422.66,
+        "total_conversions": 760490,
+        "overall_roas": 3.606198852655943
+    }
+}
